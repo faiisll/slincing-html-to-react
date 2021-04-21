@@ -172,7 +172,7 @@ export default function Homepage() {
                         
                       </div>
                     </div>
-                    <div class="pricing-item-cta mb-8">
+                    <div className="pricing-item-cta mb-8">
                       <Button className="" isPrimary isBlock>Start free trial</Button>
                       {/* <a class="button button-primary button-block" href="#">Start free trial</a > */}
                     </div>
